@@ -1,0 +1,60 @@
+{
+  "nuxt": {
+    "buildId": "f1deeea9-93f2-4dd5-8078-eb0a8198d1b9"
+  },
+  "prose": {
+    "copyButton": {
+      "iconCopy": "ph:copy",
+      "iconCopied": "ph:check"
+    },
+    "headings": {
+      "icon": "ph:link"
+    }
+  },
+  "alpine": {
+    "title": "techy100.com",
+    "description": "100세까지 건강하게 개발하기 프로젝트",
+    "image": {
+      "src": "/social-card-preview.jpg",
+      "alt": "techy100.com",
+      "width": 400,
+      "height": 225
+    },
+    "header": {
+      "position": "right",
+      "logo": {
+        "path": "/logo.svg",
+        "pathDark": "/logo-dark.svg",
+        "alt": "techy100.com"
+      }
+    },
+    "footer": {
+      "credits": {
+        "enabled": true,
+        "text": "Techy100",
+        "repository": "/"
+      },
+      "navigation": true,
+      "alignment": "center",
+      "message": "ⓒ 2024. TECY100.COM all rights reserved."
+    },
+    "socials": {
+      "twitter": "appagakr",
+      "instagram": "",
+      "github": "appagakr",
+      "facebook": "",
+      "medium": "",
+      "youtube": ""
+    },
+    "form": {
+      "successMessage": "Message sent. Thank you!"
+    },
+    "backToTop": {
+      "text": "Back to top",
+      "icon": "material-symbols:arrow-upward"
+    }
+  },
+  "theme": {
+    "dark": true
+  }
+}
