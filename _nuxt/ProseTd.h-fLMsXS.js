@@ -1,1 +1,0 @@
-import{m as t,b as n,c as o,a6 as c}from"./entry.WDEf8Gea.js";const r={};function a(e,s){return n(),o("td",null,[c(e.$slots,"default",{},void 0,!0)])}const d=t(r,[["render",a],["__scopeId","data-v-007841e9"]]);export{d as default};

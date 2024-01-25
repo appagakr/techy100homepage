@@ -1,1 +1,0 @@
-import{m as o,b as t,c,a6 as r}from"./entry.WDEf8Gea.js";const a={};function n(e,s){return t(),c("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const d=o(a,[["render",n],["__scopeId","data-v-496ab964"]]);export{d as default};

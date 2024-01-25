@@ -1,1 +1,0 @@
-import{d as a,b as o,c as s,a6 as n,m as d}from"./entry.WDEf8Gea.js";const c=["type","disabled"],l=a({__name:"Button",props:{type:{type:String,default:"submit"},disabled:{type:Boolean,default:!1}},setup(e){return(t,p)=>(o(),s("button",{type:e.type,disabled:e.disabled},[n(t.$slots,"default",{},void 0,!0)],8,c))}}),_=d(l,[["__scopeId","data-v-ee3c70c6"]]);export{_ as default};
