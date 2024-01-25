@@ -1,1 +1,0 @@
-import{k as r,b as t,c as n,a5 as o}from"./entry.LnfCk2p6.js";const a={};function s(e,c){return t(),n("strong",null,[o(e.$slots,"default",{},void 0,!0)])}const l=r(a,[["render",s],["__scopeId","data-v-8a4e1ca8"]]);export{l as default};
